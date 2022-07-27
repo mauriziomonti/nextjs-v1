@@ -28,7 +28,7 @@ export default function Home() {
 
           <a href="/projects" className={styles.card}>
             <h2>Projects &rarr;</h2>
-            <p>My project page. Just a collection of apps using different building blocks.</p>
+            <p>My project page. Just a collection of apps using different stuff.</p>
           </a>
 
           <a
